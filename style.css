@@ -1,0 +1,21 @@
+canvas{
+    box-shadow:5px 4px 3px rgb(11, 119, 207);
+    border:solid 3px;
+    border-color:darkcyan;
+    border-radius:25px;
+}
+h2 {
+    color:white;
+}
+h4 {
+    background-color:whitesmoke;
+    width:100%;
+       padding:20px;
+       margin-top:550px;
+}
+#myModel{
+    background-color:white;
+    width:60%;
+    border-radius:25px;
+    color:black;
+}
